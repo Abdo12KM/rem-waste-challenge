@@ -43,7 +43,7 @@ export const BottomNavigation = () => {
           damping: 30,
           delay: 0.2,
         }}
-        className="bg-background/80 mx-auto rounded-2xl rounded-b-none border border-black/50 p-3 py-2 shadow-2xl backdrop-blur-xl dark:border-white/50"
+        className="bg-background/80 mx-auto rounded-2xl rounded-b-none border border-b-0 border-black/50 p-3 py-2 shadow-2xl backdrop-blur-xl dark:border-white/50"
       >
         <div className="flex items-center justify-center gap-4">
           {/* Selected Skip Info */}
